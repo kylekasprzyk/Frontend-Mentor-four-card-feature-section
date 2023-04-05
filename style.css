@@ -151,16 +151,36 @@ p {
     border-top: .2219rem solid hsl(var(--cyan));
 }
 
+.supervisor:hover {
+    box-shadow: 0 .9375rem 1.875rem -0.6875rem hsl(var(--cyan));
+    transition: 50ms;
+}
+
 .team-builder {
     border-top: .2219rem solid hsl(var(--red));
+}
+
+.team-builder:hover {
+    box-shadow: 0 .9375rem 1.875rem -0.6875rem hsl(var(--red));
+    transition: 50ms;
 }
 
 .karma {
     border-top: .2219rem solid hsl(var(--orange));
 }
 
+.karma:hover {
+    box-shadow: 0 .9375rem 1.875rem -0.6875rem hsl(var(--orange));
+    transition: 50ms;
+}
+
 .calculator {
     border-top: .2219rem solid hsl(var(--blue));
+}
+
+.calculator:hover {
+    box-shadow: 0 .9375rem 1.875rem -0.6875rem hsl(var(--blue));
+    transition: 50ms;
 }
 
 @media screen and (min-width: 768px) {
