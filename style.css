@@ -1,6 +1,5 @@
 :root {
     /* colors */
-
     --red: 0 78% 62%;
     --cyan: 180 62% 55%;
     --orange: 34 97% 64%;
@@ -64,29 +63,13 @@ body {
     color: hsl(var(--very-dark-blue));
 }
 
-img,
-picture,
-video,
-canvas,
-svg {
+img {
     display: block;
     max-width: 100%;
 }
 
-input,
-button,
-textarea,
-select {
-    font: inherit;
-}
-
 p,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1 {
     overflow-wrap: break-word;
 }
 
