@@ -3,7 +3,7 @@
   <h2>
     <a href="https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK"><strong>Frontend Mentor Challenge</strong></a>  </h2>
     <p>
-    <a href="#">My Solution</a>
+    <a href="https://kylekasprzyk.github.io/Frontend-Mentor-four-card-feature-section/">My Solution</a>
   </p>
 </div>
 
@@ -29,8 +29,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Links
 
-- [Solution URL](#)
-- [Live Site URL](#)
+- [Solution URL](https://www.frontendmentor.io/solutions/four-card-feature-section-solution-GVKOxW-8_V)
+- [Live Site URL](https://kylekasprzyk.github.io/Frontend-Mentor-four-card-feature-section/)
 
 ## Built with
 
